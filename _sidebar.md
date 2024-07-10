@@ -1,3 +1,0 @@
-- [ANSIBLE](README.md)
-- [ABCD](abcd.md)
-- [ANSIBLE_ROLE](ansible_role.md)
